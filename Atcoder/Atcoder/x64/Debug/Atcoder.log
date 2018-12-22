@@ -1,3 +1,0 @@
-﻿  main.cpp
-c:\users\makas\source\repos\atcoder\source\main.cpp(464): warning C4244: '初期化中': 'ULL' から 'unsigned int' への変換です。データが失われる可能性があります。
-  Atcoder.vcxproj -> C:\Users\makas\Source\Repos\Atcoder\x64\Debug\Atcoder.exe
